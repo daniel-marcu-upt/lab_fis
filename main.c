@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("stiu sa fac printf in C!");
+	printf("am reusit sa schimb ceva :((");
 	return 0;
 }
